@@ -14,7 +14,7 @@ Pour ce projet:
 
     4.1- je visualise mes cellules vides
     
-    4.2- je créée et entraine mon model
+    4.2- je crée et entraine mon model
     
     4.3- je visualise mes résultats et les interprête
 
