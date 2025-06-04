@@ -4,21 +4,21 @@ https://www.kaggle.com/datasets/canozensoy/industrial-iot-dataset-synthetic/data
 
 Pour ce projet:
 
-1- je recupere la data, je la transforme en dataframe, je la nettoie
+1- je récupère la data, je la transforme en dataframe, je la nettoie
 
-2- je fais differentes analyse pour connaitre ma data et voir ce qu'elle contient
+2- je fais différentes analyses pour connaitre ma data et voir ce qu'elle contient
 
-3- je realise quelque visualisations avec matplotlib et seaborn
+3- je réalise quelques visualisations avec matplotlib et seaborn
 
 4- je veux réaliser un model de machine learning Random Forest Classification
 
     4.1- je visualise mes cellules vides
     
-    4.2- je créé et entraine mon model
+    4.2- je créée et entraine mon model
     
-    4.3- je visualise mes resultats et les interprete
+    4.3- je visualise mes résultats et les interprête
 
-1-2- je recupere la data, je la transforme en dataframe, je la nettoie puis je fais differentes analyse pour connaitre ma data et voir ce qu'elle contient
+1-2- je récupère la data, je la transforme en dataframe, je la nettoie puis je fais différentes analyses pour connaitre ma data et voir ce qu'elle contient
 
 Je charge mes biblioteques
 ![image](https://github.com/user-attachments/assets/647a6b48-d719-4480-b4fd-b4f6b9768f84)
@@ -29,7 +29,7 @@ Je charge et j'analyse mon df
 ![image](https://github.com/user-attachments/assets/3c78cb94-f58f-481f-8df4-8923162a7fd6)
 ![image](https://github.com/user-attachments/assets/926ae2e3-b63d-4781-a265-2f22a92d16d7)
 
-3- je realise quelque visualisations avec matplotlib et seaborn
+3- je réalise quelques visualisations avec matplotlib et seaborn
 
 ![image](https://github.com/user-attachments/assets/ec3d6c08-5a1d-4e73-8436-a2c9e4fc5d9e)
 ![image](https://github.com/user-attachments/assets/efe4bf70-bcbc-416a-98c4-e666204fe502)
